@@ -46,7 +46,7 @@
 	* "Clean Code does one thing well" - Bjarne Stroustrup
 	* "Clean code reads like well-written prose" - Grady Booch
 
-![](wtfm.jpg)
+![](https://www.osnews.com/images/comics/wtfm.jpg)
 
 * Warum Clean Code?
 	* Langfristige Wartbarkeit
