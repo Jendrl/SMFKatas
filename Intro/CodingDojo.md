@@ -27,7 +27,7 @@
 		* die erste Person entwickelt einen fehlschlagenden Test
 		* die andere Person entwickelt Code bis der Test durchläuft
 		* die selbe Person entwickelt den nächsten fehlschlagenden Test und der andere Entwickler ist wieder dran
-	* - nochmal TDD genauer ansprechen, dazu anregen - 
+		* entsprechend Red-Green-Refactor Cycle den Refactor Schritt nicht vergessen
 * Katas: dieses Mal 3 zur Auswahl
 	* Manhattan Distance
 	* Balanced Paranthesis
